@@ -8,6 +8,9 @@ dependencies:
 - name: bdd-nh-1593010092
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: bdd-nh-import-1593012414
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: bdd-sbhg-1593010092
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
